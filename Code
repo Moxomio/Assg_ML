@@ -1,5 +1,0 @@
-###CODE
-import pandas as pd
-
-df = pd.read('C:\Users\edham\OneDrive\Documents\GitHub\Assg_ML\heart_disease_uci.csv')
-df.head()
